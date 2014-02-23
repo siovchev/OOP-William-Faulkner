@@ -46,6 +46,13 @@
     <Compile Include="EngineAndRenderer\Renderer.cs" />
     <Compile Include="Interfaces\IRenderable.cs" />
     <Compile Include="Interfaces\IRenderer.cs" />
+    <Compile Include="Interfaces\IResource.cs" />
+    <Compile Include="Interfaces\ISkill.cs" />
+    <Compile Include="Interfaces\IHero.cs" />
+    <Compile Include="PowerUpsAndItems\ItemType.cs" />
+    <Compile Include="PowerUpsAndItems\ObstacleType.cs" />
+    <Compile Include="PowerUpsAndItems\PowerUpType.cs" />
+    <Compile Include="PowerUpsAndItems\Resource.cs" />
     <Compile Include="Interfaces\ISkill.cs" />
     <Compile Include="Interfaces\IHero.cs" />
     <Compile Include="Program.cs" />
@@ -59,14 +66,23 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Art\" />
     <Folder Include="Battle\" />
-    <Folder Include="PowerUps\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+    <Folder Include="PowerUps\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
   </Target>

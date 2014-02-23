@@ -69,5 +69,13 @@
         {
             return this.body;
         }
+
+
+        // ///1 - right 2 down 3 - left 4 up
+
+        public void Move(MatrixCoords newPosition)
+        {
+            // TODO : implement the function 
+        }
     }
 }
