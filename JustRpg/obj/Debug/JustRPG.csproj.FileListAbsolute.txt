@@ -1,0 +1,12 @@
+C:\Users\milan\Documents\GitHub\OOP-Project---William-Faulkner-team---Telerik-Academy-13-14\William-Faulkner\JustRPG\bin\Debug\JustRPG.exe.config
+C:\Users\milan\Documents\GitHub\OOP-Project---William-Faulkner-team---Telerik-Academy-13-14\William-Faulkner\JustRPG\bin\Debug\JustRPG.exe
+C:\Users\milan\Documents\GitHub\OOP-Project---William-Faulkner-team---Telerik-Academy-13-14\William-Faulkner\JustRPG\bin\Debug\JustRPG.pdb
+C:\Users\milan\Documents\GitHub\OOP-Project---William-Faulkner-team---Telerik-Academy-13-14\William-Faulkner\JustRPG\obj\Debug\JustRPG.csprojResolveAssemblyReference.cache
+C:\Users\milan\Documents\GitHub\OOP-Project---William-Faulkner-team---Telerik-Academy-13-14\William-Faulkner\JustRPG\obj\Debug\JustRPG.exe
+C:\Users\milan\Documents\GitHub\OOP-Project---William-Faulkner-team---Telerik-Academy-13-14\William-Faulkner\JustRPG\obj\Debug\JustRPG.pdb
+C:\Users\milan\Documents\OOP-Project---William-Faulkner-team---Telerik-Academy-13-14\William-Faulkner\JustRPG\bin\Debug\JustRpg.exe.config
+C:\Users\milan\Documents\OOP-Project---William-Faulkner-team---Telerik-Academy-13-14\William-Faulkner\JustRPG\obj\Debug\JustRpg.exe
+C:\Users\milan\Documents\OOP-Project---William-Faulkner-team---Telerik-Academy-13-14\William-Faulkner\JustRPG\obj\Debug\JustRpg.pdb
+C:\Users\milan\Documents\OOP-Project---William-Faulkner-team---Telerik-Academy-13-14\William-Faulkner\JustRPG\bin\Debug\JustRpg.exe
+C:\Users\milan\Documents\OOP-Project---William-Faulkner-team---Telerik-Academy-13-14\William-Faulkner\JustRPG\bin\Debug\JustRpg.pdb
+C:\Users\milan\Documents\OOP-Project---William-Faulkner-team---Telerik-Academy-13-14\William-Faulkner\JustRPG\obj\Debug\JustRpg.csprojResolveAssemblyReference.cache
