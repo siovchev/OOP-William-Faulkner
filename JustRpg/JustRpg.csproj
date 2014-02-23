@@ -46,8 +46,13 @@
     <Compile Include="EngineAndRenderer\Renderer.cs" />
     <Compile Include="Interfaces\IRenderable.cs" />
     <Compile Include="Interfaces\IRenderer.cs" />
+    <Compile Include="Interfaces\IResource.cs" />
     <Compile Include="Interfaces\ISkill.cs" />
     <Compile Include="Interfaces\IHero.cs" />
+    <Compile Include="PowerUpsAndItems\ItemType.cs" />
+    <Compile Include="PowerUpsAndItems\ObstacleType.cs" />
+    <Compile Include="PowerUpsAndItems\PowerUpType.cs" />
+    <Compile Include="PowerUpsAndItems\Resource.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Skills\Skill.cs" />
@@ -63,7 +68,6 @@
   <ItemGroup>
     <Folder Include="Art\" />
     <Folder Include="Battle\" />
-    <Folder Include="PowerUps\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

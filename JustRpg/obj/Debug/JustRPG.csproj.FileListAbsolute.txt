@@ -10,3 +10,9 @@ C:\Users\milan\Documents\OOP-Project---William-Faulkner-team---Telerik-Academy-1
 C:\Users\milan\Documents\OOP-Project---William-Faulkner-team---Telerik-Academy-13-14\William-Faulkner\JustRPG\bin\Debug\JustRpg.exe
 C:\Users\milan\Documents\OOP-Project---William-Faulkner-team---Telerik-Academy-13-14\William-Faulkner\JustRPG\bin\Debug\JustRpg.pdb
 C:\Users\milan\Documents\OOP-Project---William-Faulkner-team---Telerik-Academy-13-14\William-Faulkner\JustRPG\obj\Debug\JustRpg.csprojResolveAssemblyReference.cache
+C:\Users\Valia\Source\Repos\OOP-William-Faulkner\JustRPG\bin\Debug\JustRpg.exe.config
+C:\Users\Valia\Source\Repos\OOP-William-Faulkner\JustRPG\obj\Debug\JustRpg.exe
+C:\Users\Valia\Source\Repos\OOP-William-Faulkner\JustRPG\obj\Debug\JustRpg.pdb
+C:\Users\Valia\Source\Repos\OOP-William-Faulkner\JustRPG\bin\Debug\JustRpg.exe
+C:\Users\Valia\Source\Repos\OOP-William-Faulkner\JustRPG\bin\Debug\JustRpg.pdb
+C:\Users\Valia\Source\Repos\OOP-William-Faulkner\JustRPG\obj\Debug\JustRpg.csprojResolveAssemblyReference.cache
