@@ -41,7 +41,6 @@
                 case "ranger": hero = new HeroRanger(name, body);
                     break;
                 default: throw new InvalidOperationException("Can't create a hero of unknown type!");
-                    break;
             }
         }
 
@@ -56,6 +55,16 @@
             {
                 return this.renderer;
             }
+        }
+
+        public void TestAdjacentUnits(IEnumerable<Unit> listOfEnnemies)
+        {
+            // TODO : compare each ennemy to hero's position, if adjacent - Attack()
+        }
+
+        public void Attack(Hero hero, Ennemy ennemy)
+        {
+
         }
     }
 }
