@@ -37,7 +37,7 @@
             engine.GetRenderer.EnqueueForRendering(hero);
             engine.GetRenderer.RenderAll();
 
-            //DrawTestIntro();
+            DrawTestIntro();
             //test
         }
     }
